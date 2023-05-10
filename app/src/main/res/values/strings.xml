@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">MyFeisbukAPP</string>
+    <string name="facebook_app_id">990342185466979</string>
+    <string name="fb_login_protocol_scheme">fb990342185466979</string>
+    <string name="facebook_client_token">b9de8a70b4a69962a5ff5f41bd16e2c5</string>
+</resources>
